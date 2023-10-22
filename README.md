@@ -21,9 +21,9 @@ Use tools like Postman or curl to test your API endpoints. Ensure that you can c
 <h1> Add validation and error handling: </h1>
 Implement validation to ensure the data sent to your API is correct.
 Handle errors gracefully by returning appropriate HTTP status codes and error messages.
-<h1> Secure your API:
 
+<h1> Secure your API: </h1>
 Implement security measures such as authentication and authorization to protect your API from unauthorized access.
-<h1> Document your API:
 
+<h1> Document your API: </h1>
 Create documentation to help other developers understand how to use your API, including the endpoints, request and response formats, and any authentication requirements.
